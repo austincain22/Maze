@@ -1,0 +1,200 @@
+# depslib dependency file v1.0
+1526072631 source:c:\users\austin\documents\csci 115\maze\main.cpp
+	<string.h>
+	<CommonThings.h>
+	<Maze.h>
+	<iostream>
+	<Timer.h>
+	<player.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<fstream>
+	<stdlib.h>
+	<Enemies.h>
+	<wall.h>
+	<math.h>
+	<Sounds.h>
+
+1524600692 c:\users\austin\documents\csci 115\maze\include\commonthings.h
+	<GL/gl.h>
+	<SOIL.h>
+	<iostream>
+	<Timer.h>
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\soil.h
+
+1524600693 c:\users\austin\documents\csci 115\maze\include\timer.h
+	<time.h>
+
+1526064358 c:\users\austin\documents\csci 115\maze\include\maze.h
+	<CommonThings.h>
+	<string.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<SOIL.h>
+	<iostream>
+	<Timer.h>
+	<math.h>
+	<player.h>
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1526063052 c:\users\austin\documents\csci 115\maze\include\player.h
+	<CommonThings.h>
+	<string.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<SOIL.h>
+	<iostream>
+	<Timer.h>
+	<math.h>
+
+1526064149 c:\users\austin\documents\csci 115\maze\include\enemies.h
+	<CommonThings.h>
+	<Maze.h>
+	<player.h>
+	<time.h>
+	<thread>
+	<string>
+	<math.h>
+	<vector>
+
+1526064355 c:\users\austin\documents\csci 115\maze\include\wall.h
+	<CommonThings.h>
+	<string.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<SOIL.h>
+	<iostream>
+	<Timer.h>
+	<math.h>
+	<player.h>
+
+1526072785 source:c:\users\austin\documents\csci 115\maze\src\enemies.cpp
+	<Enemies.h>
+	<iostream>
+	<queue>
+	<vector>
+	<string>
+
+1526064310 source:c:\users\austin\documents\csci 115\maze\src\maze.cpp
+	<Maze.h>
+
+1526064353 source:c:\users\austin\documents\csci 115\maze\src\player.cpp
+	<Player.h>
+
+1525998155 source:c:\users\austin\documents\csci 115\maze\src\timer.cpp
+	"Timer.h"
+
+1526063742 source:c:\users\austin\documents\csci 115\maze\src\wall.cpp
+	<wall.h>
+	<iostream>
+
+1524098736 c:\users\austin\documents\csci 115\maze\include\sounds.h
+	<SNDS/irrKlang.h>
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_irrklangtypes.h
+	<wchar.h>
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_esoundoutputdrivers.h
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_esoundengineoptions.h
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_estreammodes.h
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1524600692 c:\users\austin\documents\csci 115\maze\common\inc\snds\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1525747568 source:c:\users\austin\documents\csci 115\maze\src\sounds.cpp
+	"Sounds.h"
+	<iostream>
+
